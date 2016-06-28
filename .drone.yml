@@ -1,5 +1,5 @@
 build:
-    image: node:5
+    image: 42nerds/node
     commands:
         - npm install
         - npm test
