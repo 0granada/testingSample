@@ -1,0 +1,14 @@
+{
+  "name": "testing-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "oscar granada",
+  "license": "MIT"
+}
